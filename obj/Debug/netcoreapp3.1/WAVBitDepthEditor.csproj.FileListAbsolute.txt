@@ -1,0 +1,13 @@
+C:\Users\Isaac Barden\source\repos\WAVBitDepthEditor\bin\Debug\netcoreapp3.1\WAVBitDepthEditor.exe
+C:\Users\Isaac Barden\source\repos\WAVBitDepthEditor\bin\Debug\netcoreapp3.1\WAVBitDepthEditor.deps.json
+C:\Users\Isaac Barden\source\repos\WAVBitDepthEditor\bin\Debug\netcoreapp3.1\WAVBitDepthEditor.runtimeconfig.json
+C:\Users\Isaac Barden\source\repos\WAVBitDepthEditor\bin\Debug\netcoreapp3.1\WAVBitDepthEditor.runtimeconfig.dev.json
+C:\Users\Isaac Barden\source\repos\WAVBitDepthEditor\bin\Debug\netcoreapp3.1\WAVBitDepthEditor.dll
+C:\Users\Isaac Barden\source\repos\WAVBitDepthEditor\bin\Debug\netcoreapp3.1\WAVBitDepthEditor.pdb
+C:\Users\Isaac Barden\source\repos\WAVBitDepthEditor\obj\Debug\netcoreapp3.1\WAVBitDepthEditor.csprojAssemblyReference.cache
+C:\Users\Isaac Barden\source\repos\WAVBitDepthEditor\obj\Debug\netcoreapp3.1\WAVBitDepthEditor.AssemblyInfoInputs.cache
+C:\Users\Isaac Barden\source\repos\WAVBitDepthEditor\obj\Debug\netcoreapp3.1\WAVBitDepthEditor.AssemblyInfo.cs
+C:\Users\Isaac Barden\source\repos\WAVBitDepthEditor\obj\Debug\netcoreapp3.1\WAVBitDepthEditor.csproj.CoreCompileInputs.cache
+C:\Users\Isaac Barden\source\repos\WAVBitDepthEditor\obj\Debug\netcoreapp3.1\WAVBitDepthEditor.dll
+C:\Users\Isaac Barden\source\repos\WAVBitDepthEditor\obj\Debug\netcoreapp3.1\WAVBitDepthEditor.pdb
+C:\Users\Isaac Barden\source\repos\WAVBitDepthEditor\obj\Debug\netcoreapp3.1\WAVBitDepthEditor.genruntimeconfig.cache
