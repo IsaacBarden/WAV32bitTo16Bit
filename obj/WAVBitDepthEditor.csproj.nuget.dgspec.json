@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isaac Barden\\source\\repos\\WAVBitDepthEditor\\WAVBitDepthEditor.csproj": {}
+    "C:\\Users\\isaac\\source\\repos\\WAV32bitTo16Bit\\WAVBitDepthEditor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isaac Barden\\source\\repos\\WAVBitDepthEditor\\WAVBitDepthEditor.csproj": {
+    "C:\\Users\\isaac\\source\\repos\\WAV32bitTo16Bit\\WAVBitDepthEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isaac Barden\\source\\repos\\WAVBitDepthEditor\\WAVBitDepthEditor.csproj",
+        "projectUniqueName": "C:\\Users\\isaac\\source\\repos\\WAV32bitTo16Bit\\WAVBitDepthEditor.csproj",
         "projectName": "WAVBitDepthEditor",
-        "projectPath": "C:\\Users\\Isaac Barden\\source\\repos\\WAVBitDepthEditor\\WAVBitDepthEditor.csproj",
-        "packagesPath": "C:\\Users\\Isaac Barden\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isaac Barden\\source\\repos\\WAVBitDepthEditor\\obj\\",
+        "projectPath": "C:\\Users\\isaac\\source\\repos\\WAV32bitTo16Bit\\WAVBitDepthEditor.csproj",
+        "packagesPath": "C:\\Users\\isaac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\isaac\\source\\repos\\WAV32bitTo16Bit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Isaac Barden\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\isaac\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
