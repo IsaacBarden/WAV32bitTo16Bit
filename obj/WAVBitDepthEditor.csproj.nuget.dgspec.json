@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isaac\\source\\repos\\WAV32bitTo16Bit\\WAVBitDepthEditor.csproj": {}
+    "C:\\Users\\isaac\\source\\repos\\C#\\WAV32bitTo16Bit\\WAVBitDepthEditor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isaac\\source\\repos\\WAV32bitTo16Bit\\WAVBitDepthEditor.csproj": {
+    "C:\\Users\\isaac\\source\\repos\\C#\\WAV32bitTo16Bit\\WAVBitDepthEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isaac\\source\\repos\\WAV32bitTo16Bit\\WAVBitDepthEditor.csproj",
+        "projectUniqueName": "C:\\Users\\isaac\\source\\repos\\C#\\WAV32bitTo16Bit\\WAVBitDepthEditor.csproj",
         "projectName": "WAVBitDepthEditor",
-        "projectPath": "C:\\Users\\isaac\\source\\repos\\WAV32bitTo16Bit\\WAVBitDepthEditor.csproj",
+        "projectPath": "C:\\Users\\isaac\\source\\repos\\C#\\WAV32bitTo16Bit\\WAVBitDepthEditor.csproj",
         "packagesPath": "C:\\Users\\isaac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isaac\\source\\repos\\WAV32bitTo16Bit\\obj\\",
+        "outputPath": "C:\\Users\\isaac\\source\\repos\\C#\\WAV32bitTo16Bit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isaac\\AppData\\Roaming\\NuGet\\NuGet.Config",

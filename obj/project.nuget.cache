@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6asVJ8oQ0UrPkuJ4bqZwcbkfafz5HU47maiNXWYEMxrIqAvoZ98Pn77li8f2MlZBLbXpVvOgydpj5V5yzdxGrw==",
+  "dgSpecHash": "r1/Iog56RL6fE9Hu4TB/hZ+auc80U+VcW+b+SXGAi+DdwX8BVqgcW8I/3gxWI+noLzHEE5pYN7ShH3zyx/2URQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\isaac\\source\\repos\\WAV32bitTo16Bit\\WAVBitDepthEditor.csproj",
+  "projectFilePath": "C:\\Users\\isaac\\source\\repos\\C#\\WAV32bitTo16Bit\\WAVBitDepthEditor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
